@@ -1,14 +1,14 @@
-### Ola!!!!  Sou André 👋
+## Ola!!!!  Sou André 👋
 
 - 🔭 Hoje trabalho na Engenharia de Produtos para Linha de Transm. de Energia
-- 🌱 Estudando Engenharia da Computação / com foco na area de Marchine Learning 
+- 🌱 Estudando Engenharia da Computação / com foco na area de Marchine Learning e Ciencia de Dados.
 
 <a href="https://github.com/AndreMSilv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMSilv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMSilv&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  ### Tecnologias do qual estou estudando :
+  # Tecnologias do qual estou estudando :
 
 
 <div style="display: inline_block"><br/>
